@@ -49,7 +49,7 @@ body {
 
 /*--------------- Header ---------------*/
 .logo {
-    color: inherit;
+    color: var(--font-color-main);
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
     font-size: 26px;
@@ -70,7 +70,7 @@ body {
 }
 
 .header-link {
-    color: inherit;
+    color: var(--font-color-main);
     font-weight: 500;
     font-size: 14px;
     line-height: 1.14;
@@ -174,7 +174,7 @@ body {
 
 /*--------------- PORTFOLIO ---------------*/
 .portfolio-btn {
-    color: inherit;
+    color: var(--font-color-main);
     background-color: var(--background-color-secondary);
     font-family: inherit;
     font-weight: 500;
