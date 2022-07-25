@@ -158,17 +158,18 @@ body {
 
 .team-item {
     background-color: var(--background-color-main);
-    font-size: 16px;
     line-height: 1.19;
     text-align: center;
     letter-spacing: 0.03em;
 }
 
 .team-member {
+    font-size: 16px;
     font-weight: 500;
 }
 
 .team-txt {
+    font-size: 16px;
     color: var(--font-color-secondary);
 }
 
